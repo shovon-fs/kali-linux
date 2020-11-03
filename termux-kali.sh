@@ -1,4 +1,5 @@
-#!/data/data/com.termux/usr/bin/bash 
+#!/data/data/com.termux/usr/bin/bash
+apt update;apt upgrade -y;apt install git python python2 php ruby curl perl figlet -y;pip2 install requests mechanize;gem install lolcat 
 echo
 echo 
 echo
